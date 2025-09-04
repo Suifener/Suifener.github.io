@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Suifener.github.io</id>
-    <title>Gridea</title>
-    <updated>2025-09-04T08:28:42.838Z</updated>
+    <title>李亦远</title>
+    <updated>2025-09-04T08:30:13.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Suifener.github.io"/>
     <link rel="self" href="https://Suifener.github.io/atom.xml"/>
     <subtitle>分享我的所见所闻</subtitle>
     <logo>https://Suifener.github.io/images/avatar.png</logo>
     <icon>https://Suifener.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, Gridea</rights>
+    <rights>All rights reserved 2025, 李亦远</rights>
     <entry>
         <title type="html"><![CDATA[我的第一个测试]]></title>
         <id>https://Suifener.github.io/post/wo-de-di-yi-ge-ce-shi/</id>
